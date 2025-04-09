@@ -2,6 +2,8 @@
 
 Library for using image models created with Teachable Machine.
 
+With the latest tfjs version "@tensorflow/tfjs": "^4.22.0"
+
 ### Model checkpoints
 
 There is one link related to your model that will be provided by Teachable Machine
